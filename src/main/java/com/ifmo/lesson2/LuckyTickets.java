@@ -16,6 +16,7 @@ public class LuckyTickets {
 
     public static int luckyTickets() {
         int ticket = 0;
+
         for (int i = 1001; i < 1000000 ; i++) {
             int a = (i/100000)%10;
             int b = (i/10000)%10;
