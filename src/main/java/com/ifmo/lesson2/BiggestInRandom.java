@@ -31,6 +31,7 @@ public class BiggestInRandom {
         int c = (rnd % 100) % 10;
         int max;
 
+
         if (a >= b && a >= c) {
             max = a;
         } else if (b >= a && b >= c) {

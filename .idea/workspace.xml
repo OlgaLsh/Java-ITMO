@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0a86772-a7d3-422d-942c-6df0b7b8e5d5" name="Default Changelist" comment="homework #2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/BiggestInRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/BiggestInRandom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
