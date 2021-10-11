@@ -21,7 +21,6 @@ public class BiggestInRandom {
 
     public static int threeDigitRandom() {
         Random random = new Random();
-
         return random.nextInt(899) + 100;
     }
 
