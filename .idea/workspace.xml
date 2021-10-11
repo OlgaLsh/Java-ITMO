@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0a86772-a7d3-422d-942c-6df0b7b8e5d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="a0a86772-a7d3-422d-942c-6df0b7b8e5d5" name="Default Changelist" comment="homework #2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +27,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson2" />
   </component>
   <component name="RunManager">
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ifmo.lesson2.PrimeNumber" />
+    <configuration name="BiggestInRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ifmo.lesson2.BiggestInRandom" />
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
@@ -43,7 +42,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.BiggestInRandom" />
       </list>
     </recent_temporary>
   </component>
@@ -56,6 +55,36 @@
       <option name="presentableId" value="Default" />
       <updated>1633543064378</updated>
     </task>
+    <task id="LOCAL-00001" summary="homework #2">
+      <created>1633962873338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633962873338</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework #2">
+      <created>1633962990978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633962990978</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework #2" />
   </component>
 </project>
