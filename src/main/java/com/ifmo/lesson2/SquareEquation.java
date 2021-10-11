@@ -33,6 +33,7 @@ public class SquareEquation {
             double[] array = {x1};
             return array;
         } else
+
         return null;
     }
 }
