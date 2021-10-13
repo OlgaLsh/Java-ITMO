@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0a86772-a7d3-422d-942c-6df0b7b8e5d5" name="Default Changelist" comment="homework #3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/EvenArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Fibonacci20.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random12.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random15.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/TwoArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/UnevenArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/EvenArray.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random12.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random15.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random8.class" afterDir="false" />
@@ -21,6 +18,7 @@
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/UnevenArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/UnluckyNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/UnluckyNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/EvenArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/EvenArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/Dividers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/Dividers.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/SquareEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/SquareEquation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/UnluckyNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/UnluckyNumbers.class" afterDir="false" />
@@ -45,8 +43,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson2" />
   </component>
   <component name="RunManager">
-    <configuration name="Random4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ifmo.lesson3.Random4" />
+    <configuration name="UnluckyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ifmo.lesson2.UnluckyNumbers" />
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
@@ -60,7 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Random4" />
+        <item itemvalue="Application.UnluckyNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634125951968</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="homework #3">
+      <created>1634134390186</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1634134390186</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,5 +216,12 @@
     <MESSAGE value="homework #2" />
     <MESSAGE value="homework #3" />
     <option name="LAST_COMMIT_MESSAGE" value="homework #3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="a" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
