@@ -12,6 +12,7 @@ public class Dividers {
 
         int n = scanner.nextInt();
 
+
         for (int i = 1; i <= n; i++) {
             int div=n%i;
             if(div==0)
