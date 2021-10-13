@@ -24,8 +24,8 @@ public class SquareEquation {
     public static double[] squareEquationRoots(double a, double b, double c) {
         double D = Math.pow(b, 2) - (4 * a * c);
         if (D > 0) {
-            double x1 = -b + Math.sqrt(Math.pow(b, 2) - 4 * a * c);
-            double x2 = -b - Math.sqrt(Math.pow(b, 2) - 4 * a * c);
+            double x1 = (-b + Math.sqrt(D)) / (2 * a);
+            double x2 = (-b - Math.sqrt(D))/ (2 * a);
             double[] array = {x1, x2};
             return array;
         } else if (D == 0) {
