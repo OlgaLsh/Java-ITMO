@@ -26,12 +26,12 @@ public class SquareEquation {
         if (D > 0) {
             double x1 = (-b + Math.sqrt(D)) / (2 * a);
             double x2 = (-b - Math.sqrt(D))/ (2 * a);
-            double[] array = {x1, x2};
-            return array;
+            double[] arr = {x1, x2};
+            return arr;
         } else if (D == 0) {
-            double x1 = -b / 2 * a;
-            double[] array = {x1};
-            return array;
+            double x1 = -b / (2 * a);
+            double[] arr = {x1};
+            return arr;
         } else
 
         return null;
