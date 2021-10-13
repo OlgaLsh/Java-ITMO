@@ -14,17 +14,19 @@ public class UnluckyNumbers {
     }
 
     public static int unluckyNumbersCount() {
-//        int n = 0;
-//        int a;
-//        for (int i = 4; i <= 99999 ; i++) {
-//            a = i;
-//            while (a>=4) {
-//                if (a%10 == 4 || a%100 == 13);
-//                n++;
-//                break;
-//            }
-//             a = a/10;
-//        }
-        return 0;
+        int a,n,i;
+        n=0;
+        for(i=3;i<=99999;i++)
+        {
+            a=i;
+            while(a>=4)
+            {
+                if(a%10==4 || a%100==13)
+                    n++;
+                break;
+            }
+            a/=10;
+        }
+        return n;
     }
 }

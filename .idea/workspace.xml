@@ -24,7 +24,9 @@
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/TwoArrays.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/UnevenArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/SquareEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/SquareEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/UnluckyNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/UnluckyNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/WallClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/WallClock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/Dividers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/Dividers.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/SquareEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/SquareEquation.class" afterDir="false" />
     </list>
@@ -48,8 +50,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson2" />
   </component>
   <component name="RunManager">
-    <configuration name="SquareEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ifmo.lesson2.SquareEquation" />
+    <configuration name="UnluckyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ifmo.lesson2.UnluckyNumbers" />
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
@@ -63,7 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SquareEquation" />
+        <item itemvalue="Application.UnluckyNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634122115265</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="homework #2">
+      <created>1634122241541</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1634122241541</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

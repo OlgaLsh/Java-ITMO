@@ -51,7 +51,7 @@ public class WallClock {
         if (b == 0) {
             return "Осталось менее часа";
         } else  {
-            return "Осталось часов: " + b;
+            return "Осталось" + b + "часов";
         }
     }
 

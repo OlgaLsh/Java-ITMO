@@ -23,14 +23,15 @@ public class PrimeNumber {
     }
 
     public static boolean isPrime(int n) {
-//        boolean b = false;
-//        for(int i=1; i<=Math.sqrt(n); i++) {
-//            if(n%i==0&&i>1) {
-//                b = true;
-//                break;
-//            }
-//        }
-//
-        return false;
+        if (n == 1) {
+            return false;
+        } else {
+            for (int i = 2; i <= Math.sqrt(n); i++) {
+                if (n % i == 0 && i != n) {
+                    return false;
+                }
+            }
+        }
+        return true;
     }
 }
