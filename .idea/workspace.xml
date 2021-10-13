@@ -23,12 +23,12 @@
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random8.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/TwoArrays.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/UnevenArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/UnluckyNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/UnluckyNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/WallClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/WallClock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/Dividers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/Dividers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/PrimeNumber.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/SquareEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/SquareEquation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/UnluckyNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/UnluckyNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/WallClock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/WallClock.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634122241541</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="homework #2">
+      <created>1634124414953</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1634124414953</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
