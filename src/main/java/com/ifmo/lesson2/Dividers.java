@@ -12,7 +12,7 @@ public class Dividers {
 
         int n = scanner.nextInt();
         System.out.println("Число " + n + " делится на ");
-        for (int i = n; i > 0; i--) {
+        for (int i = 1; i < n; i++) {
             int div=n%i;
             if(div==0)
                 System.out.println(i);

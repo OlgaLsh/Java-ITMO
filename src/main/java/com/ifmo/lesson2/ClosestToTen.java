@@ -18,12 +18,11 @@ public class ClosestToTen {
         float ten = 10f;
         float diff1 = Math.abs(ten-m);
         float diff2 = Math.abs(ten-n);
-        if (diff1 >= diff2) {
-            System.out.println("Ближайшее число к 10 - " + n);
+        if (diff1 > diff2) {
+            return n;
         } else {
-            System.out.println("Ближайшее число к 10 - " + m);
+            return m;
         }
 
-        return 0;
     }
 }

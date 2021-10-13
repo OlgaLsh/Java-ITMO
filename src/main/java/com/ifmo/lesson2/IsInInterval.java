@@ -12,9 +12,10 @@ public class IsInInterval {
      */
     public static void main(String[] args) {
         int rnd = randomInt();
-        System.out.println(rnd);
 
        String inInterval = isInInterval(rnd);
+
+       System.out.println(inInterval);
 
     }
 
@@ -25,14 +26,13 @@ public class IsInInterval {
     }
 
     public static String isInInterval(int rnd) {
-        if (rnd >= 25 && rnd <= 100) {
-            System.out.println ("Число " + rnd + " содержится в интервале (25,100)");
+        if (rnd > 25 && rnd < 100) {
+            return "Число " + rnd + " содержится в интервале (25,100)";
         }
         else {
-            System.out.println ("Число " + rnd + " не содержится в интервале (25,100)");
+            return "Число " + rnd + " не содержится в интервале (25,100)";
         }
 
-       return "";
     }
 
 }
