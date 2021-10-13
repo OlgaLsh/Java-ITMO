@@ -5,15 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0a86772-a7d3-422d-942c-6df0b7b8e5d5" name="Default Changelist" comment="homework #2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/EncryptArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/EvenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Fibonacci20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/TwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/UnevenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/EncryptArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/EvenArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Fibonacci20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/TwoArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/UnevenArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/ClosestToTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/ClosestToTen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/Dividers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/Dividers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/IsEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/IsEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/IsInInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/IsInInterval.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/NonNegativeSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/NonNegativeSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/BiggestInRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/BiggestInRandom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/LuckyTickets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/LuckyTickets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/SquareEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/SquareEquation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/ClosestToTen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/ClosestToTen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/Dividers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/Dividers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/IsEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/IsEven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/IsInInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/IsInInterval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/NonNegativeSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/NonNegativeSequence.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633968827310</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="homework #2">
+      <created>1634120649793</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634120649793</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
