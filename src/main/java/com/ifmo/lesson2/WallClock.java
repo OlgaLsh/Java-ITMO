@@ -47,12 +47,15 @@ public class WallClock {
     }
 
     public static String remainingHours(int rndSecond) {
-        int b = rndSecond / 60 / 60;
+        int b = rndSecond / 3600;
         if (b == 0) {
             return "Осталось менее часа";
-        } else  {
-            return "Осталось " + b + " часов";
+        } else if (b==1){
+            return "Остался 1 час";
+        } else if (b>=5){
+            return "Осталось "+b+" часов";
         }
+        return "Осталось "+b+" часа";
     }
 
 }
