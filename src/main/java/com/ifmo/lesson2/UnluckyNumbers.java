@@ -18,8 +18,7 @@ public class UnluckyNumbers {
         n = 0;
         for (i = 3; i <= 99999; i++) {
             a = i;
-            // 24567
-            // 21355
+
             while (a >= 4) {
                 if (a % 10 == 4 || a % 100 == 13) {
                     n++;

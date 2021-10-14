@@ -28,5 +28,8 @@ public class EvenArray {
             System.out.println(Arr[i]);
         }
     }
+//    public static int [] evenArray {
+//
+//    }
 
 }

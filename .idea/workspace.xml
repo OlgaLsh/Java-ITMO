@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0a86772-a7d3-422d-942c-6df0b7b8e5d5" name="Default Changelist" comment="homework #3">
+    <list default="true" id="a0a86772-a7d3-422d-942c-6df0b7b8e5d5" name="Default Changelist" comment="homework #2">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random12.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random15.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/TwoArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/UnevenArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson4/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random12.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random15.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random8.class" afterDir="false" />
@@ -28,6 +29,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -43,8 +51,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson2" />
   </component>
   <component name="RunManager">
-    <configuration name="UnluckyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ifmo.lesson2.UnluckyNumbers" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ifmo.lesson4.Main" />
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
@@ -58,7 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UnluckyNumbers" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634134390186</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="homework #2">
+      <created>1634147009714</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1634147009714</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,9 +228,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="homework #2" />
     <MESSAGE value="homework #3" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework #3" />
+    <MESSAGE value="homework #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework #2" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
