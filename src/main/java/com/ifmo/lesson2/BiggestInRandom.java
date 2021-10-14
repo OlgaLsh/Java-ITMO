@@ -22,6 +22,7 @@ public class BiggestInRandom {
     public static int threeDigitRandom() {
         Random random = new Random();
         return random.nextInt(899) + 100;
+
     }
 
     public static String largestDigit(int rnd) {
