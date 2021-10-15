@@ -7,36 +7,24 @@ public class Fibonacci20 {
     сумме двух предыдущих.
      */
     public static void main(String[] args) {
-        //int[] fibonacciNumbers = fibonacciNumbers();
+        int[] fibonacciNumbers = fibonacciNumbers();
 
-
-        int[] Arr=new int[20];
-        int i;
-        for(i=0;i<Arr.length;i++){
-            if(i<2){
-                Arr[i]=1;
-            }
-            else {
-                Arr[i]=Arr[i-2]+Arr[i-1];
-            }
-            System.out.println(Arr[i] + " ");
+        for (int k : fibonacciNumbers) {
+            System.out.print(k + " ");
+        }
     }
 
-    //public static int [] fibonacciNumbers() {
-//        int[] Arr=new int[20];
-//        int i;
-//        for(i=0;i<Arr.length;i++){
-//            if(i<2){
-//                Arr[i]=1;
-//            }
-//            else {
-//                Arr[i]=Arr[i-2]+Arr[i-1];
-//            }
-//            //return Arr;
-//        }
-//
-//        //return new int[0];
-
+    public static int[] fibonacciNumbers() {
+        int[] Arr = new int[20];
+        int i;
+        for (i = 0; i < Arr.length; i++) {
+            if (i < 2) {
+                Arr[i] = 1;
+            } else {
+                Arr[i] = Arr[i - 2] + Arr[i - 1];
+            }
+        }
+        return Arr;
     }
 
 }

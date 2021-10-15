@@ -11,18 +11,16 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Random8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/TwoArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/UnevenArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson4/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random12.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random15.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/Random8.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/TwoArrays.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/UnevenArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/UnluckyNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson2/UnluckyNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/EvenArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/EvenArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/Dividers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/Dividers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/SquareEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/SquareEquation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/UnluckyNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/UnluckyNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Fibonacci20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ifmo/lesson3/Fibonacci20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/BiggestInRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson2/BiggestInRandom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/EvenArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ifmo/lesson3/EvenArray.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +49,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson2" />
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ifmo.lesson4.Main" />
+    <configuration name="UnevenArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ifmo.lesson3.UnevenArray" />
       <module name="lessons" />
       <extension name="coverage">
         <pattern>
@@ -66,7 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UnevenArray" />
       </list>
     </recent_temporary>
   </component>

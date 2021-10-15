@@ -8,7 +8,17 @@ public class EvenArray {
     будет размера.2 4 6 … 18 20246…20
      */
     public static void main(String[] args) {
-        //int[] evenArray = evenArray();
+        int[] evenArray = evenArray();
+        for (int k : evenArray) {
+            System.out.print(k + " ");
+        }
+        System.out.println();
+
+        for (int k : evenArray) {
+            System.out.println(k);
+        }
+    }
+    public static int [] evenArray() {
         int n = 0;
         for (int i = 2; i <= 20; i++) {
             if (i % 2 == 0) {
@@ -19,17 +29,11 @@ public class EvenArray {
         for (int i = 2, a = 0; i <= 20; i++) {
             if (i % 2 == 0) {
                 Arr[a] = i;
-                System.out.print(Arr[a] + " ");
                 a++;
             }
         }
-        System.out.println(" ");
-        for (int i = 0; i < Arr.length; i++) {
-            System.out.println(Arr[i]);
-        }
+        return Arr;
+
     }
-//    public static int [] evenArray {
-//
-//    }
 
 }
